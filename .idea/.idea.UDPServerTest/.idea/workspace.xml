@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24f4faca-4e04-4c7d-8220-eb2fa62f3072" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/KyleDarkMagic/KyleMagicRoom.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-231">
+              <caret line="27" column="44" lean-forward="true" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+              <folding>
+                <marker date="1561696836610" expanded="false" signature="6:219" ph="..." />
+                <marker date="1561696836610" expanded="true" signature="244:2348" ph="{...}" />
+                <marker date="1561696836610" expanded="true" signature="304:2342" ph="{...}" />
+                <marker date="1561696836610" expanded="true" signature="332:480" ph="{...}" />
+                <marker date="1561696836610" expanded="true" signature="395:428" ph="{...}" />
+                <marker date="1561696836610" expanded="true" signature="523:814" ph="{...}" />
+                <marker date="1561696836610" expanded="true" signature="558:810" ph="{...}" />
+                <marker date="1561696836610" expanded="true" signature="667:758" ph="{...}" />
+                <marker date="1561696836610" expanded="true" signature="767:805" ph="{...}" />
+                <marker date="1561696836610" expanded="true" signature="834:877" ph="{...}" />
+                <marker date="1561696836610" expanded="true" signature="907:968" ph="{...}" />
+                <marker date="1561696836610" expanded="true" signature="1147:1371" ph="{...}" />
+                <marker date="1561696836610" expanded="true" signature="1158:1305" ph="{...}" />
+                <marker date="1561696836610" expanded="true" signature="1190:1295" ph="{...}" />
+                <marker date="1561696836610" expanded="true" signature="1328:1367" ph="{...}" />
+                <marker date="1561696836610" expanded="true" signature="1418:1668" ph="{...}" />
+                <marker date="1561696836610" expanded="true" signature="1853:2339" ph="{...}" />
+                <marker date="1561696836610" expanded="true" signature="2015:2160" ph="{...}" />
+                <marker date="1561696836610" expanded="true" signature="2087:2155" ph="{...}" />
+                <marker date="1561696836610" expanded="true" signature="2168:2335" ph="{...}" />
+                <marker date="1561696836610" expanded="true" signature="2239:2330" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/KyleDarkMagic/NetWork/UDPSocket.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="27" column="54" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
+              <folding>
+                <marker date="1561696365402" expanded="false" signature="6:76" ph="..." />
+                <marker date="1561696365402" expanded="true" signature="101:2413" ph="{...}" />
+                <marker date="1561696365402" expanded="true" signature="130:2411" ph="{...}" />
+                <marker date="1561696365402" expanded="true" signature="534:608" ph="{...}" />
+                <marker date="1561696365402" expanded="true" signature="637:836" ph="{...}" />
+                <marker date="1561696365402" expanded="true" signature="701:826" ph="{...}" />
+                <marker date="1561696365402" expanded="true" signature="925:1178" ph="{...}" />
+                <marker date="1561696365402" expanded="true" signature="1232:1336" ph="{...}" />
+                <marker date="1561696365402" expanded="true" signature="1375:1734" ph="{...}" />
+                <marker date="1561696365402" expanded="true" signature="1536:1715" ph="{...}" />
+                <marker date="1561696365402" expanded="true" signature="1766:2405" ph="{...}" />
+                <marker date="1561696365402" expanded="true" signature="1897:2386" ph="{...}" />
+                <marker date="1561696365402" expanded="true" signature="2294:2372" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/KyleDarkMagic/NetWork/UDPMsgPacket.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="867">
+              <caret line="61" column="68" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="68" />
+              <folding>
+                <marker date="1561629690834" expanded="true" signature="6:128" ph="..." />
+                <marker date="1561629690834" expanded="true" signature="153:2122" ph="{...}" />
+                <marker date="1561629690834" expanded="true" signature="160:207" ph="/// 协议抽象基类 ... " />
+                <marker date="1561629690834" expanded="true" signature="256:2120" ph="{...}" />
+                <marker date="1561629690834" expanded="true" signature="349:406" ph="/// 这个协议的协议号 ... " />
+                <marker date="1561629690834" expanded="true" signature="446:503" ph="/// 要发送的字节链表 ... " />
+                <marker date="1561629690834" expanded="true" signature="604:665" ph="/// 读或者写的时候的字节偏移 ... " />
+                <marker date="1561629690834" expanded="true" signature="743:896" ph="{...}" />
+                <marker date="1561629690834" expanded="true" signature="958:1088" ph="{...}" />
+                <marker date="1561629690834" expanded="true" signature="1136:1290" ph="{...}" />
+                <marker date="1561629690834" expanded="true" signature="1348:1478" ph="{...}" />
+                <marker date="1561629690834" expanded="true" signature="1489:1608" ph="/// 写字符传，先写一个数来标记长度，后面的字节才是真正的字符串内容 ... " />
+                <marker date="1561629690834" expanded="true" signature="1657:1885" ph="{...}" />
+                <marker date="1561629690834" expanded="true" signature="1936:2114" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/KyleDarkMagic/KyleMagicRoom.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/KyleDarkMagic/NetWork/UDPSocket.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/KyleDarkMagic/NetWork/UDPMsgPacket.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripter/UDPSocket.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripter/UDPController.cs" />
+        <option value="$PROJECT_DIR$/Assets/KyleDarkMagic/NetWork/UDPMsgPacket.cs" />
+        <option value="$PROJECT_DIR$/Assets/KyleDarkMagic/UDPController.cs" />
+        <option value="$PROJECT_DIR$/Assets/KyleDarkMagic/NetWork/UDPSocket.cs" />
+        <option value="$PROJECT_DIR$/Assets/KyleDarkMagic/KyleMagicRoom.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-55" />
+    <option name="y" value="119" />
+    <option name="width" value="1936" />
+    <option name="height" value="1071" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="KyleDarkMagic" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="3828">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="3828" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24f4faca-4e04-4c7d-8220-eb2fa62f3072" name="Default Changelist" comment="" />
+      <created>1561607109289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561607109289</updated>
+      <workItem from="1561607111915" duration="5528000" />
+      <workItem from="1561619250018" duration="1328000" />
+      <workItem from="1561629331137" duration="2833000" />
+      <workItem from="1561691329457" duration="4318000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14007000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="LuaCheck" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Unity" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="4" />
+    </layout>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/KyleDarkMagic/KyleMagicRoom.cs</url>
+          <line>20</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/KyleDarkMagic/KyleMagicRoom.cs" initialLine="20">
+            <startOffsets>
+              <option value="405" />
+            </startOffsets>
+            <endOffsets>
+              <option value="423" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/KyleDarkMagic/KyleMagicRoom.cs</url>
+          <line>29</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/KyleDarkMagic/KyleMagicRoom.cs" initialLine="28">
+            <startOffsets>
+              <option value="531" />
+            </startOffsets>
+            <endOffsets>
+              <option value="558" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripter/UDPSocket.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripter/UDPController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/KyleDarkMagic/NetWork/UDPMsgPacket.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="61" column="68" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="68" />
+          <folding>
+            <marker date="1561629690834" expanded="true" signature="6:128" ph="..." />
+            <marker date="1561629690834" expanded="true" signature="153:2122" ph="{...}" />
+            <marker date="1561629690834" expanded="true" signature="160:207" ph="/// 协议抽象基类 ... " />
+            <marker date="1561629690834" expanded="true" signature="256:2120" ph="{...}" />
+            <marker date="1561629690834" expanded="true" signature="349:406" ph="/// 这个协议的协议号 ... " />
+            <marker date="1561629690834" expanded="true" signature="446:503" ph="/// 要发送的字节链表 ... " />
+            <marker date="1561629690834" expanded="true" signature="604:665" ph="/// 读或者写的时候的字节偏移 ... " />
+            <marker date="1561629690834" expanded="true" signature="743:896" ph="{...}" />
+            <marker date="1561629690834" expanded="true" signature="958:1088" ph="{...}" />
+            <marker date="1561629690834" expanded="true" signature="1136:1290" ph="{...}" />
+            <marker date="1561629690834" expanded="true" signature="1348:1478" ph="{...}" />
+            <marker date="1561629690834" expanded="true" signature="1489:1608" ph="/// 写字符传，先写一个数来标记长度，后面的字节才是真正的字符串内容 ... " />
+            <marker date="1561629690834" expanded="true" signature="1657:1885" ph="{...}" />
+            <marker date="1561629690834" expanded="true" signature="1936:2114" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/KyleDarkMagic/NetWork/UDPSocket.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="27" column="54" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
+          <folding>
+            <marker date="1561696365402" expanded="false" signature="6:76" ph="..." />
+            <marker date="1561696365402" expanded="true" signature="101:2413" ph="{...}" />
+            <marker date="1561696365402" expanded="true" signature="130:2411" ph="{...}" />
+            <marker date="1561696365402" expanded="true" signature="534:608" ph="{...}" />
+            <marker date="1561696365402" expanded="true" signature="637:836" ph="{...}" />
+            <marker date="1561696365402" expanded="true" signature="701:826" ph="{...}" />
+            <marker date="1561696365402" expanded="true" signature="925:1178" ph="{...}" />
+            <marker date="1561696365402" expanded="true" signature="1232:1336" ph="{...}" />
+            <marker date="1561696365402" expanded="true" signature="1375:1734" ph="{...}" />
+            <marker date="1561696365402" expanded="true" signature="1536:1715" ph="{...}" />
+            <marker date="1561696365402" expanded="true" signature="1766:2405" ph="{...}" />
+            <marker date="1561696365402" expanded="true" signature="1897:2386" ph="{...}" />
+            <marker date="1561696365402" expanded="true" signature="2294:2372" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/KyleDarkMagic/KyleMagicRoom.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-231">
+          <caret line="27" column="44" lean-forward="true" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+          <folding>
+            <marker date="1561696836610" expanded="false" signature="6:219" ph="..." />
+            <marker date="1561696836610" expanded="true" signature="244:2348" ph="{...}" />
+            <marker date="1561696836610" expanded="true" signature="304:2342" ph="{...}" />
+            <marker date="1561696836610" expanded="true" signature="332:480" ph="{...}" />
+            <marker date="1561696836610" expanded="true" signature="395:428" ph="{...}" />
+            <marker date="1561696836610" expanded="true" signature="523:814" ph="{...}" />
+            <marker date="1561696836610" expanded="true" signature="558:810" ph="{...}" />
+            <marker date="1561696836610" expanded="true" signature="667:758" ph="{...}" />
+            <marker date="1561696836610" expanded="true" signature="767:805" ph="{...}" />
+            <marker date="1561696836610" expanded="true" signature="834:877" ph="{...}" />
+            <marker date="1561696836610" expanded="true" signature="907:968" ph="{...}" />
+            <marker date="1561696836610" expanded="true" signature="1147:1371" ph="{...}" />
+            <marker date="1561696836610" expanded="true" signature="1158:1305" ph="{...}" />
+            <marker date="1561696836610" expanded="true" signature="1190:1295" ph="{...}" />
+            <marker date="1561696836610" expanded="true" signature="1328:1367" ph="{...}" />
+            <marker date="1561696836610" expanded="true" signature="1418:1668" ph="{...}" />
+            <marker date="1561696836610" expanded="true" signature="1853:2339" ph="{...}" />
+            <marker date="1561696836610" expanded="true" signature="2015:2160" ph="{...}" />
+            <marker date="1561696836610" expanded="true" signature="2087:2155" ph="{...}" />
+            <marker date="1561696836610" expanded="true" signature="2168:2335" ph="{...}" />
+            <marker date="1561696836610" expanded="true" signature="2239:2330" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
